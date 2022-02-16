@@ -1,18 +1,23 @@
-{
-	"Lista Empleados": [
-	      {
-	          "Nombre": "Juan Carlos",
-	          "Apellidos": "Correa Nuñez",
-	          "Cargo": "Docente"
-	      },
-	      {    "Nombre": "Alvaro",
-	          "Apellidos": "Moncada",
-	          "Cargo": "Coordinador"
-	      },
-	      {    "Nombre": "Nicolás",
-	          "Apellidos": "Gomez",
-	          "Cargo": "Docente"
-	      },
-
-	]
-}
+[
+  {
+    "id": "001",
+    "Nombre": "Alvaro",
+    "Apellido": "Moncada",
+    "Cargo": "Coordinador",
+    "Area": "Inteligencia Artificial"
+  },
+  {
+    "id": "A002",
+    "Nombre": "Nicolas",
+    "Apellido": "Gomez",
+    "Cargo": "Docente",
+    "Area": "Calculo"
+  },
+  {
+    "id": "A003",
+    "Nombre": "Juan Carlos",
+    "Apellido": "Correa",
+    "Cargo": "Docente",
+    "Area": "Analitica de Datos"
+  }
+]
