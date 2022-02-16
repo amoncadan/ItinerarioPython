@@ -1,0 +1,18 @@
+{
+	"Lista Empleados": [
+	      {
+	          "Nombre": "Juan Carlos",
+	          "Apellidos": "Correa Nuñez",
+	          "Cargo": "Docente"
+	      },
+	      {    "Nombre": "Alvaro",
+	          "Apellidos": "Moncada",
+	          "Cargo": "Coordinador"
+	      },
+	      {    "Nombre": "Nicolás",
+	          "Apellidos": "Gomez",
+	          "Cargo": "Docente"
+	      },
+
+	]
+}
